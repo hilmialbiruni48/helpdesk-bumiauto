@@ -1,13 +1,13 @@
-# Welcome to your Lovable project
+# HELPDESK PROJECT
 
 ## Project info
-Helpdesk for Enterprise (Ticketing System)
+Helpdesk for Enterprise (Ticketing System) about create ticket, approval, and user management with two roles, admin and user
 
 ## Requirement Backend and Database
-# Create Ticket
-# Ticket Management
-# Login Logout (User Authentication)
-# User Management
+### Create Ticket
+#### Ticket Management
+#### Login Logout (User Authentication)
+#### User Management
 
 
 Follow these steps:
